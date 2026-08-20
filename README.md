@@ -46,6 +46,7 @@ You can use these links to buy a developer board. If you want to support this pr
   - [LilyGo](https://lilygo.cc/) [T3-S3](https://s.click.aliexpress.com/e/_c3o28ou9)* LoRa 2.4 GHz
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 GEEK](https://s.click.aliexpress.com/e/_c35mBhkF)*
   - [Waveshare](https://www.waveshare.com/) [ESP32-S3 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* Watch with 16 MB flash, AMOLED touch display, Wi-Fi 5, BT 5 LE, accelerometer, gyroscope
+  - [Elecrow](https://www.elecrow.com/) [CrowPanel 2.1 inch HMI](https://s.click.aliexpress.com/e/_c4LjYad5)* Rotary Display 480*480 IPS Round Touch Knob Screen
 
 - ESP32 C6 single core with WiFi 6 and BT-5 LE
   - [NanoESP32-C6](https://s.click.aliexpress.com/e/_ooBtUih)* with 16MB flash
