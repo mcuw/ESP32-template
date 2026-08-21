@@ -24,11 +24,11 @@ static const gpio_num_t TX = GPIO_NUM_43;
 static const uint8_t I2C_IO_EXPANDER_ADDRESS = 0x21; // pcf8574
 static const uint8_t I2C_TOUCH_ADDRESS = 0x15;  // often but not always 0x15!
 static const uint8_t I2C_SCREEN_ADDRESS = 0x3C;
-static const gpio_num_t TOUCHSCREEN_RESET_PIN = GPIO_NUM_0;
-static const gpio_num_t TOUCHSCREEN_INTERRUPT_PIN = GPIO_NUM_2;
-static const gpio_num_t LCD_POWER_PIN = GPIO_NUM_3;
-static const gpio_num_t LCD_RESET_PIN = GPIO_NUM_4;
-static const gpio_num_t ENCODER_BUTTON_PIN = GPIO_NUM_5;
+static const uint8_t TOUCHSCREEN_RESET_PIN = 0;
+static const uint8_t TOUCHSCREEN_INTERRUPT_PIN = 2;
+static const uint8_t LCD_POWER_PIN = 3;
+static const uint8_t LCD_RESET_PIN = 4;
+static const uint8_t ENCODER_BUTTON_PIN = 5; // (INPUT_PULLUP)
 
 // Screen
 static const uint16_t SCREEN_HEIGHT = 480;
