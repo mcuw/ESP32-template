@@ -6,6 +6,8 @@
 
 #define ESP32_S3_CROWPANEL_2_1
 
+static const gpio_num_t BOOT_BUTTON_PIN = GPIO_NUM_0;
+
 static const gpio_num_t SDA = GPIO_NUM_38;
 static const gpio_num_t SCL = GPIO_NUM_39;
 
