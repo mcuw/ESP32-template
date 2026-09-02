@@ -64,7 +64,7 @@ If you are new to the Arduino world then play around with free online simulators
 
 ## Get Started
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/create-new-project-with-template.png" />
+<img src="https://github.com/mcuw/ESP32-template/blob/main/doc/create-new-project-with-template.png" />
 
 1. Login to github
 
@@ -99,11 +99,11 @@ https://mcuw.github.io/ESPConnect/
 Variant B - Visual Studio Code
 1. Select a board in Visual Studio Code. `Default` env builds all boards.
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/choose-board-in-vsc.png" />
+<img src="https://github.com/mcuw/ESP32-template/blob/main/doc/choose-board-in-vsc.png" />
 
 2. Flash your board
 
-<img src="https://github.com/mcuw/ESP32-ghbuild-template/blob/main/doc/flash-with-vsc.png" />
+<img src="https://github.com/mcuw/ESP32-template/blob/main/doc/flash-with-vsc.png" />
 
 
 ## Customize your project with [platformio.ini](platformio.ini)
@@ -155,7 +155,7 @@ This is required to publish several firmware names in the github artifacts of a 
 <details>
 <summary><h3>Example Release</h3></summary>
 
-see [Releases](https://github.com/mcuw/esp-ghbuild-template/releases) on the right sidemenu.
+see [Releases](https://github.com/mcuw/esp-template/releases) on the right sidemenu.
 </details>
 
 
