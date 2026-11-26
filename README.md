@@ -50,6 +50,9 @@ You can use these links to buy a developer board. If you want to support this pr
   - [LilyGo](https://lilygo.cc/) [T-QT C6](https://lilygo.cc/products/t-qt-c6) Ring [SDK](https://github.com/mcuw/esp32-t-qt-c6-sdk) with 4 MB flash, touch display, 6-Axis Sensor
   - [Waveshare](https://www.waveshare.com/) [ESP32-C6 AMOLED 2.06](https://s.click.aliexpress.com/e/_c34ka7n1)* Watch with 16 MB flash, AMOLED touch display, Wi-Fi 6, BT 5 LE, accelerometer, gyroscope
 
+- ESP32 S31 with dual-core processor up to 320 MHz
+  - [ESP32 S31 Function CoreBoard 1](https://de.aliexpress.com/item/1005012329349286.html) with WiFi-6, Thread and 1000 Mbps Ethernet
+
 - ESP32 P4 with dual-core processor up to 400 MHz
   - [GUITION](https://www.guition.com/) [10.1" ESP32-P4 LCD Display Development Board](https://s.click.aliexpress.com/e/_c2JX4b3b)* with 1280x800 Capacitive Touch Screen, Wi-Fi 6, battery and speaker
   - [GUITION](https://www.guition.com/) [JC-ESP32P4-M3-DEV](https://s.click.aliexpress.com/e/_c39YU9i9)* ESP32-P4 with ESP32-C6 Mini, Wi-Fi 6, Ethernet, TF card slot, Speaker header, Li-Ion Battery connector, microphone
